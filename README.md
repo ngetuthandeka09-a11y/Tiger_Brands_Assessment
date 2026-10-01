@@ -114,6 +114,8 @@ TRY_CAST(REPLACE(REGEXP_REPLACE(AUP, '[^0-9,.-]', ''), ',', '.') AS DOUBLE) AS A
 
 Core measures include Value Growth %, Volume Growth %, Price per Unit, Price Change %, Share of Growth %, gap rates and a retailer-relative growth measure.
 
+## Power BI Dashboard
+[View the Tiger Brands dashboard]( https://app.powerbi.com/links/lJ-xmFlhOa?ctid=00bd19a8-d097-47fe-901b-b8cd0085ad7b&pbi_source=linkShare&bookmarkGuid=37b9bd3a-92fb-438f-93c2-98f11f0454e7)
 ---
 
 ## Limitations
